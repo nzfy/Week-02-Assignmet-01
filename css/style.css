@@ -4,14 +4,17 @@ fieldset {
   width: 35%;
   box-shadow: 5px;
 }
+
 span {
   color: rgb(243, 11, 11);
 }
+
 /* h1 buyuk baslik yapar  */
 h1 {
   color: rgb(58, 129, 217);
   text-align: center;
 }
+
 input {
   height: 25px;
   width: 400px;
@@ -21,4 +24,8 @@ input {
 button {
   background-color: rgb(94, 94, 211);
   color: rgb(237, 226, 226);
+  border: none;
+  outline: none;
+  height: 25px;
+  width: 70px;
 }
